@@ -8,5 +8,6 @@
 </head>
 <body>
 <h2>Hello Java Bean, you are great</h2>
+<h2>user: ${user.name} </h2>
 </body>
 </html>
