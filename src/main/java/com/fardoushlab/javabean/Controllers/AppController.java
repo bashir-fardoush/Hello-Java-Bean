@@ -11,4 +11,12 @@ public class AppController {
 		
 		return "index";
 	}
+	
+	
+//	@GetMapping("/index")
+//	public String hello() {
+//		
+//		return "index";		
+//	}
+	
 }
